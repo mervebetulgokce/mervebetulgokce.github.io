@@ -17,7 +17,7 @@ The experience of war and refugee status can alter intra-family dynamics and the
 ## Works in Progress
 
 ### The Effects of Civil War and Forced Migration on Intimate Partner Violence among Syrian Refugee Women in Jordan ###
-#### Murat Kirdar ####
+#### with Murat Kirdar ####
 [Link to the paper](https://mervebetulgokce.github.io/assets/img/Paper2.pdf)
 <div style="text-align: justify;">
     <strong>Abstract</strong><br>
