@@ -7,6 +7,7 @@ title: Research
 
 ### Intergenerational Power Shift and the Rise of Non-arranged Marriages among Refugees ###
 #### with Andrew Foster and Murat Kirdar ####
+#### Revision Requested from "Demography" ####
 [Link to the paper](https://www.iza.org/publications/dp/16348/intergenerational-power-shift-and-the-rise-of-non-arranged-marriages-among-refugees)
 <div style="text-align: justify;">
     <strong>Abstract</strong><br>
