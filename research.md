@@ -21,7 +21,7 @@ The Effects of Civil War and Forced Migration on Intimate Partner Violence among
 
 with Murat Kirdar
 
-[Link to the Paper](https://mervebetulgokce.github.io/assets/img/Paper2.pdf)
+[Link to the Paper](https://docs.iza.org/dp17284.pdf)
 
 <br>
 
