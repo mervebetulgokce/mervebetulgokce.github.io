@@ -5,28 +5,23 @@ title: Research
 
 ## Publications
 
-Intergenerational Power Shift and the Rise of Non-arranged Marriages among Refugees
-
-with Andrew Foster and Murat Kirdar
-
-Accepted to "Demography"
-
-[Link to the Paper](https://www.iza.org/publications/dp/16348/intergenerational-power-shift-and-the-rise-of-non-arranged-marriages-among-refugees)
+A. D. Foster, M. B. Gokce, and M. G. Kirdar (2024) ”Intergenerational Power Shift and the Rise
+of Non-arranged Marriages among Refugees,” <u>Demography</u>, 
+https://doi.org/10.1215/00703370-11555087
 
 <br>
 
 ## Working Papers
 
-The Effects of Civil War and Forced Migration on Intimate Partner Violence among Syrian Refugee Women in Jordan
+The Effects of Civil War and Forced Migration on Intimate Partner Violence among Syrian Refugee Women in Jordan (with Murat G. Kirdar) [[Paper Link]](https://docs.iza.org/dp17284.pdf)
 
-with Murat Kirdar
-
-[Link to the Paper](https://docs.iza.org/dp17284.pdf)
+The Effect of Rental Prices on Student Mobility <a href="https://mervebetulgokce.github.io/assets/img/student_mobility.pdf">[Paper Link]</a>
 
 <br>
 
 ## Works in Progress
 
-The Effect of Increasing Rental Prices on Student Mobility Patterns in Turkish Higher Education
+Analyzing Fertility Outcomes of Syrian Refugees in Turkey and Jordan (with Andrew D. Foster
+and Murat G. Kırdar)
 
 
