@@ -6,8 +6,7 @@ title: Research
 ## Publications
 
 A. D. Foster, M. B. Gokce, and M. G. Kirdar (2024) ”Intergenerational Power Shift and the Rise
-of Non-arranged Marriages among Refugees,” <u>Demography</u>, 
-https://doi.org/10.1215/00703370-11555087
+of Non-arranged Marriages among Refugees,” <u>Demography</u>, <a href="https://doi.org/10.1215/00703370-11555087">https://doi.org/10.1215/00703370-11555087</a>
 
 <br>
 
