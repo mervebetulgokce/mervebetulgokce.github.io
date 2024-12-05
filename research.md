@@ -14,7 +14,7 @@ of Non-arranged Marriages among Refugees,” <u>Demography</u>, <a href="https:/
 
 The Effects of Civil War and Forced Migration on Intimate Partner Violence among Syrian Refugee Women in Jordan (with Murat G. Kirdar) [[Paper Link]](https://docs.iza.org/dp17284.pdf)
 
-The Effect of Rental Prices on Student Mobility <a href="https://mervebetulgokce.github.io/assets/img/student_mobility.pdf">[Paper Link]</a>
+The Effect of Rental Prices on Student Mobility <a href="https://mpra.ub.uni-muenchen.de/122834/1/MPRA_paper_122834.pdf">[Paper Link]</a>
 
 <br>
 
