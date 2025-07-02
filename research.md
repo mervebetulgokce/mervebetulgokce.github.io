@@ -20,7 +20,6 @@ The Effect of Rental Prices on Student Mobility <a href="https://mpra.ub.uni-mue
 
 ## Works in Progress
 
-Analyzing Fertility Outcomes of Syrian Refugees in Turkey and Jordan (with Andrew D. Foster
-and Murat G. Kırdar)
+Analyzing Fertility Outcomes of Syrian Refugees in Turkey and Jordan (with Murat G. Kırdar)
 
 
