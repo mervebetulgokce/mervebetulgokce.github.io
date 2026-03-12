@@ -17,9 +17,8 @@ M. B. Gökçe and M. G. Kırdar (2025) “The Effects of Civil War and Forced Mi
 
 The Effect of Rental Prices on Student Mobility <a href="https://mpra.ub.uni-muenchen.de/122834/1/MPRA_paper_122834.pdf">[Paper Link]</a> (Revise and Resubmit, Higher Education)
 
-<br>
 
-The Effect of Heat Stress on Labor Productivity: What Are the Underlying Mechanisms? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6116631">[Paper Link]</a> (with Zeynep Yılmaz and Enver Sait Kurtaran) (Under Revision, JDE)
+The Effect of Heat Stress on Labor Productivity: What Are the Underlying Mechanisms? <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6116631">[Paper Link]</a> (with Zeynep Yılmaz and Enver Sait Kurtaran) (Submitted)
 
 <br>
 
